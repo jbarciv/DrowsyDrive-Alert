@@ -13,7 +13,7 @@
     <a href="https://github.com/jbarciv/DrowsyDrive-Alert/tree/main/reports"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#about-the-project">View Demo</a>
+    <a href="#usage">View Demo</a>
     ·
     <a href="#installation">Installation</a>
     ·
@@ -74,45 +74,45 @@ List of major frameworks/libraries used for this project.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In order to reproduce the Drowsiness System Detection you can clone this repo:
+```
+git clone https://github.com/jbarciv/DrowsyDrive-Alert.git
+```
+or just download the [Notebook for the alarm system](src/DrowsyDrive-Alert.ipynb) along with the [MediaPipe face landmarker](src/face_landmarker_v2_with_blendshapes.task).
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+All the system has been develop on `Ubuntu 20.04`. Although it has not been tested, the following process should be practically the same for Windows except for minor details. We do not assure compatibility with Windows but we believe it is easily achievable.
+
+We recommend to create a virtual environment in which to run the Notebook.
+* **Create the venv**:
+```
+python3 -m venv myvenv
+```
+* **Activate your venv**:
+```
+source myvenv/bin/activate
+```
+we recommend you to create and *alias* in your `.bashrc` file: 
+```
+alias myvenv='source ~/the_path_to_venv_folder/myvenv/bin/activate'
+```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Only the `Jupyter Notebook` and some basic libraries are needed, you can install them easily in your `venv` using `pip`:
+* **Install Jupyter Notebook**:
+```
+pip install notebook
+```
+* **Install the libraries**:
+```
+pip install opencv-python mediapipe
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-Blablabla about the project
+With the use of MediaPipe we have implemented a *driving drowsiness detection system*. It relies only on visual perception from a camera (potencially the use of the front phone camera). The systems expects to have a close vision of the driver and a daylight conditions. The systems has not been tested with IR cameras for a robust light conditions.
 
 [![Drowsiness Deteccion 1](./figs/1.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview) [![Drowsiness Deteccion 1](./figs/2.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview)
 
@@ -137,7 +137,7 @@ Micaela Cabrera Guerrero - [@yourtwietter](https://github.com/jbarciv) - usernam
 Jorge Guijarro Tolon - [JTlotus](https://github.com/JTlotus) - jorgeguijarro10@gmail.com\
 Josep Mª Barberá Civera - [jbarciv](https://github.com/jbarciv) - chemabc@gmail.com
 
-Project Link: [link de la página web... PONER](https://github.com/your_username/repo_name)
+Visit our project website for more info: [https://webflow.com/driving_drowsiness_detection](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
