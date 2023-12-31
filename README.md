@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 ![GitHub contributors](https://img.shields.io/github/contributors/jbarciv/DrowsyDrive-Alert)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 <br />
@@ -8,14 +10,14 @@
   <p align="center">
     A Drowsiness Driving Alert implementation with the use of MediaPipe
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jbarciv/DrowsyDrive-Alert/tree/main/reports"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#about-the-project">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="#installation">Installation</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="#contact">Contact</a>
   </p>
 </div>
 
@@ -52,7 +54,7 @@
 
 Blablabla about the project
 
-[![Drowsiness Deteccion 1](./figs/1.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview) | [![Drowsiness Deteccion 1](./figs/2.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview)| 
+[![Drowsiness Deteccion 1](./figs/1.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview) [![Drowsiness Deteccion 1](./figs/2.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview)
 
 
 Blablabla about the project
