@@ -52,10 +52,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Blablabla about the project
-
-[![Drowsiness Deteccion 1](./figs/1.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview) [![Drowsiness Deteccion 1](./figs/2.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview)
-
 
 Blablabla about the project
 
@@ -116,7 +112,9 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Blablabla about the project
+
+[![Drowsiness Deteccion 1](./figs/1.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview) [![Drowsiness Deteccion 1](./figs/2.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
