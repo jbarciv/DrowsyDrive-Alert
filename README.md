@@ -50,7 +50,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Blablabla about the project
+
+[![Drowsiness Deteccion 1](./figs/1.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview) | [![Drowsiness Deteccion 1](./figs/2.gif)](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview) | 
+
 
 Blablabla about the project
 
