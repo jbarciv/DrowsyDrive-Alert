@@ -132,7 +132,7 @@ Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more informati
 ## Contact
 
 Ivonne Dayanna Quishpe Villagomez - [@yourtwietter](https://github.com/jbarciv) - username@gmail.com\
-Juan Gustavo Maldonado Quispe - [@yourtwietter](https://github.com/jbarciv) - username@gmail.com\
+Juan Gustavo Maldonado Quispe - gustavo.maldonado@alumnos.upm.es\
 Micaela Cabrera Guerrero - [@yourtwietter](https://github.com/jbarciv) - username@gmail.com\
 Jorge Guijarro Tolon - [JTlotus](https://github.com/JTlotus) - jorgeguijarro10@gmail.com\
 Josep Mª Barberá Civera - [jbarciv](https://github.com/jbarciv) - chemabc@gmail.com
