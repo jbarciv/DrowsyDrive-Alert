@@ -53,7 +53,7 @@
 ## About The Project
 
 
-Blablabla about the project
+The following repository describes a computer vision project with the objective of driver drowsiness detection by implementation of CNNs (Convolutional Neural Networks), developed by students of the Polytechnic University in Madrid (UPM) as part of the course 'Computer Vision'. In this repo it can be found the libraries, results and a collection of the reports produced during the development of this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
