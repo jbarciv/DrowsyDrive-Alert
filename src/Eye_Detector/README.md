@@ -3,7 +3,7 @@ README
 1. General information
 2. Instalation
 
-###General information
+### General information
 ***
 Project Name: Eye_Detection.ipynb
 
