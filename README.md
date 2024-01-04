@@ -137,7 +137,7 @@ Micaela Cabrera Guerrero - [@yourtwietter](https://github.com/jbarciv) - usernam
 Jorge Guijarro Tolon - [JTlotus](https://github.com/JTlotus) - jorgeguijarro10@gmail.com\
 Josep Mª Barberá Civera - [jbarciv](https://github.com/jbarciv) - chemabc@gmail.com
 
-Visit our project website for more info: [https://webflow.com/driving_drowsiness_detection](https://preview.webflow.com/preview/drivers-d11799?utm_medium=preview_link&utm_source=designer&utm_content=drivers-d11799&preview=d27283e719e19a8e38ec335c9f8b4f5e&workflow=preview)
+Visit our project website for more info: [https://driver-drowsiness-detect.webflow.io/](https://driver-drowsiness-detect.webflow.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
